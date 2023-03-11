@@ -1,4 +1,5 @@
 <template>
+   
     <div class="homepage">
         <div class="overlay"></div>
       <div class="homepage-content">
@@ -70,6 +71,7 @@
      </div>
     </div>
   </div>
+ 
  
  </template>
   

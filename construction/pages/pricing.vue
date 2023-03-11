@@ -1,7 +1,7 @@
 <template>
     <div class="bg-gray-900">
     <div class="relative px-6 pt-14 lg:static lg:px-8">
-   
+        
     <div class="pricing-page">
       <h1 class="mt-20px text-white">Pricing</h1>
       <p class="text-white" >Choose a pricing plan that fits your needs</p>
@@ -40,6 +40,7 @@
     </div>
     </div>
     </div>
+    
     
   </template>
   
