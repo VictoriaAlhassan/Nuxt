@@ -17,7 +17,7 @@
   <div class="container">
     <div class="icon-container">
       <div class="icon-wrapper">
-        <img class="icon" src="/fast operations.png" alt="fast operations">
+        <img class="icon" src="/fast.png" alt="fast operations">
         <div class="text">Fast Operations</div>
         <p class="description">vhsanckavhsjafhvbjshfbvsjf <br>cgvdvhccbhgvzdfchngxhvchdgh</p>
       </div>
